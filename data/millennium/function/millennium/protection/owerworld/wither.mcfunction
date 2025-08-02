@@ -1,1 +1,1 @@
-execute in minecraft:overworld as @e[type=wither,x=-5120,y=32,z=-5120,dx=10240,dy=128,dz=10240] at @s[distance=..5120] run function millennium:millennium/protection/owerworld/wither_replace
+execute in minecraft:overworld as @e[type=wither,x=-5120,y=32,z=-5120,dx=10240,dy=128,dz=10240] at @s[distance=..5120] run function millennium:millennium/protection/overworld/wither_replace
